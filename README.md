@@ -3,4 +3,6 @@
 
 Might contain errors ;-)
 
+Up to chapter 11 is technicial learning. After this is project. Which is be in seperate folders.
+
 ![Python Book](https://ehmatthes.github.io/pcc_2e/images/cover.png)
